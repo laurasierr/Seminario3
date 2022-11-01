@@ -1,0 +1,19 @@
+body{
+    background-color: white;
+}
+
+.logo{
+    width: 4cm;
+    background-color: #774D4D;
+}
+
+Nav{
+    background-color: #774D4D;
+    justify-content: left !important;
+}
+
+footer{
+    background-color: #774D4D !important;
+    color: white;
+}
+
